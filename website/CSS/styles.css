@@ -26,7 +26,7 @@
   color: white;
 }
 
-button{
+#exit {
   font-size: 25px;
   border:none;
   background-color: #e60000;
@@ -52,7 +52,7 @@ div {
 .about {
   display: block;
   padding: 30px;
-  width: 50%;
+  width: 40%;
 }
 
 #us-map {
@@ -74,4 +74,11 @@ path:hover, circle:hover {
   font-size: 45px;
   text-align: center;
   background: #0099ff;
+}
+
+#find {
+  color: black
+  background-color: transparent;
+  font-size: 25px;
+  padding: 5px;
 }
