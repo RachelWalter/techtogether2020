@@ -54,3 +54,24 @@ div {
   padding: 30px;
   width: 50%;
 }
+
+#us-map {
+  display: block;
+  width: 50%;
+  height: 50%;
+}
+
+path:hover, circle:hover {
+  stroke: #006652 !important;
+  stroke-width:2px;
+  stroke-linejoin: round;
+  fill: #00b38f !important;
+  cursor: pointer;
+}
+
+.rainn{
+  color: white;
+  font-size: 45px;
+  text-align: center;
+  background: #0099ff;
+}
