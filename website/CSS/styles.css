@@ -48,3 +48,9 @@ div {
   justify-content: center;
   position: relative;
 }
+
+.about {
+  display: block;
+  padding: 30px;
+  width: 50%;
+}
