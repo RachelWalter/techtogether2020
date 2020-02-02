@@ -37,6 +37,7 @@
 
 body {
   background-color: #f2e6ff;
+  padding: 30px;
 }
 
 html{
@@ -80,5 +81,17 @@ path:hover, circle:hover {
   color: black
   background-color: transparent;
   font-size: 25px;
+  padding: 5px;
+}
+
+table{
+  background-color: white;
+  font-color: black;
+  text-align: left;
+  border: 1px solid black;
+}
+
+td, th{
+  border: 1px solid black;
   padding: 5px;
 }
