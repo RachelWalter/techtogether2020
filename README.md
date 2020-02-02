@@ -1,6 +1,7 @@
 This project was completed by Rachel Walter for [TechTogether Boston 2020](https://boston.techtogether.io/)
 
 **Devpost Submission:** https://devpost.com/software/techtogether2020
+
 **Find on the Web:** https://helpmetoo.tech/
 
 I am a December 2019 graduate of University of Maryland, College Park with a major in computer science and a minor in women's studies. I've always wanted to use my technological skills to contribute meaningfully to social good and especially women's issues. This project was inspired by my course work at University of Maryland (in both fields), the work of my sister (who contributes to research on restorative practices being applied to schools), and 36 hours straight to code (and StackOverflow)!
