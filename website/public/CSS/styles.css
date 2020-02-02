@@ -27,17 +27,20 @@
 }
 
 #exit {
-  font-size: 25px;
+  font-size: 28px;
   border:none;
   background-color: #e60000;
   color: white;
-  position: absolute;
   right: 0;
+  position: fixed;
+  top: 0;
+  z-index: 100;
 }
 
 body {
   background-color: #f2e6ff;
   padding: 30px;
+  margin: 30px;
 }
 
 html{
@@ -95,3 +98,8 @@ td, th{
   border: 1px solid black;
   padding: 5px;
 }
+
+.fixed {
+    position: fixed;
+    top:0; left:0;
+    width: 100%; }

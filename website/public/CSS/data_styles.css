@@ -26,13 +26,15 @@
   color: white;
 }
 
-button{
-  font-size: 25px;
+button {
+  font-size: 28px;
   border:none;
   background-color: #e60000;
   color: white;
-  position: absolute;
   right: 0;
+  position: fixed;
+  top: 0;
+  z-index: 100;
 }
 
 body {
